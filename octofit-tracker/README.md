@@ -78,3 +78,7 @@ The backend API will be available at `http://localhost:8000`
 - Build: `npm run build`
 - Start: `npm start`
 - Watch: `npm run watch`
+
+---
+
+**OctoFit Tracker** - Your fitness companion powered by modern web technologies.
