@@ -1,7 +1,7 @@
 {
   "name": "octofit-tracker-backend",
   "version": "0.0.1",
-  "description": "OctoFit Tracker backend API",
+  "description": "OctoFit Tracker backend API - Express.js with MongoDB",
   "main": "dist/index.js",
   "type": "module",
   "scripts": {

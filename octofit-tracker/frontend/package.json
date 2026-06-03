@@ -2,6 +2,7 @@
   "name": "octofit-tracker-frontend",
   "private": true,
   "version": "0.0.1",
+  "description": "OctoFit - Modern Fitness Tracking Application",
   "type": "module",
   "scripts": {
     "dev": "vite",
